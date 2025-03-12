@@ -1,2 +1,2 @@
 # Face-Regognition-using-PCA
-Using PCA and Eigenfaces method for image classification. The dataset used is AT&amp;T dataset. Then, we tried multiple distance measures for similarity detection and archieve highest performance with Manhattan (city block) distance.
+In this project, I reimplemented the paper "A Face Recognition System Based on Eigenfaces Method" (Carikci, 2011) and tried multiple similarity measures to enhance the performance as described in "Distance measures for PCA based face recognition" (V. Perlibakas, 2003). The dataset used is AT&amp;T dataset. I archieved highest performance with Manhattan (city block) distance.
